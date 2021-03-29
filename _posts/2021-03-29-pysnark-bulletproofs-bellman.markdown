@@ -2,7 +2,6 @@
 layout: post
 title:  "PySNARK now supports bulletproofs and bellman"
 date:   2021-03-29 19:55:23 +0200
-categories: pysnark
 ---
 
 The `zkinterface` backend of PySNARK has been updated to the latest version of `zkinterface`, and it is now possible to use PySNARK to generate zkinterface `zkif` files that can be used with zkinterface's bellman and bulletproofs backend to generate zero-knowledge proofs!
